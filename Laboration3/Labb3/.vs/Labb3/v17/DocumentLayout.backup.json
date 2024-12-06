@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GIK299\\Laboration2\\Labb3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA0484B-F52B-4E70-886B-0CD88EA681DB}|Labb3\\Labb3.csproj|c:\\gik299\\laboration2\\labb3\\labb3\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA0484B-F52B-4E70-886B-0CD88EA681DB}|Labb3\\Labb3.csproj|solutionrelative:labb3\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA0484B-F52B-4E70-886B-0CD88EA681DB}|Labb3\\Labb3.csproj|c:\\gik299\\laboration2\\labb3\\labb3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA0484B-F52B-4E70-886B-0CD88EA681DB}|Labb3\\Labb3.csproj|solutionrelative:labb3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\GIK299\\Laboration2\\Labb3\\Labb3\\Book.cs",
+              "RelativeDocumentMoniker": "Labb3\\Book.cs",
+              "ToolTip": "C:\\GIK299\\Laboration2\\Labb3\\Labb3\\Book.cs*",
+              "RelativeToolTip": "Labb3\\Book.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCsAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:22:09.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GIK299\\Laboration2\\Labb3\\Labb3\\Program.cs",
+              "RelativeDocumentMoniker": "Labb3\\Program.cs",
+              "ToolTip": "C:\\GIK299\\Laboration2\\Labb3\\Labb3\\Program.cs",
+              "RelativeToolTip": "Labb3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:10:36.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

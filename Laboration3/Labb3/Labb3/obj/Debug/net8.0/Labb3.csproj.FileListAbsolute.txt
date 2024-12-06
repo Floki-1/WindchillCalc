@@ -1,0 +1,15 @@
+C:\GIK299\Laboration2\Labb3\Labb3\bin\Debug\net8.0\Labb3.exe
+C:\GIK299\Laboration2\Labb3\Labb3\bin\Debug\net8.0\Labb3.deps.json
+C:\GIK299\Laboration2\Labb3\Labb3\bin\Debug\net8.0\Labb3.runtimeconfig.json
+C:\GIK299\Laboration2\Labb3\Labb3\bin\Debug\net8.0\Labb3.dll
+C:\GIK299\Laboration2\Labb3\Labb3\bin\Debug\net8.0\Labb3.pdb
+C:\GIK299\Laboration2\Labb3\Labb3\obj\Debug\net8.0\Labb3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIK299\Laboration2\Labb3\Labb3\obj\Debug\net8.0\Labb3.AssemblyInfoInputs.cache
+C:\GIK299\Laboration2\Labb3\Labb3\obj\Debug\net8.0\Labb3.AssemblyInfo.cs
+C:\GIK299\Laboration2\Labb3\Labb3\obj\Debug\net8.0\Labb3.csproj.CoreCompileInputs.cache
+C:\GIK299\Laboration2\Labb3\Labb3\obj\Debug\net8.0\Labb3.sourcelink.json
+C:\GIK299\Laboration2\Labb3\Labb3\obj\Debug\net8.0\Labb3.dll
+C:\GIK299\Laboration2\Labb3\Labb3\obj\Debug\net8.0\refint\Labb3.dll
+C:\GIK299\Laboration2\Labb3\Labb3\obj\Debug\net8.0\Labb3.pdb
+C:\GIK299\Laboration2\Labb3\Labb3\obj\Debug\net8.0\Labb3.genruntimeconfig.cache
+C:\GIK299\Laboration2\Labb3\Labb3\obj\Debug\net8.0\ref\Labb3.dll
