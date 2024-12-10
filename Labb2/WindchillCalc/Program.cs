@@ -109,11 +109,11 @@
 
         static void ms(double temp, double wind, double WindChill)
         {
+            double Wind = wind * 3.6;
             
-            // Console.WriteLine(13.12 + 0.6215 * temp - 11.37 * Math.Pow(wind, 0.16) + 0.3965 * temp * Math.Pow(wind, 0.16));
-            WindChill = 13.12 + 0.6215 * temp - 11.37 * Math.Pow(wind, 0.16) + 0.3965 * temp * Math.Pow(wind, 0.16);
-            WindChill = Math.Round(WindChill, 2);
-            Console.WriteLine("Känns som " + WindChill + " grader celsius");
+            WindChill = 13.12 + 0.6215 * temp - 11.37 * Math.Pow(Wind, 0.16) + 0.3965 * temp * Math.Pow(Wind, 0.16); //Tack Isak
+            
+            Console.WriteLine($"Känns som {WindChill:F2} grader celsius");
 
             if(WindChill > -25)
             {
@@ -137,13 +137,13 @@
         }
         static void kmh(double temp, double wind, double WindChill)
         {
-            double Wind = wind / 3.6;
-            Console.WriteLine(13.12 + 0.6215 * temp - 11.37 * Math.Pow(Wind, 0.16) + 0.3965 * temp * Math.Pow(Wind, 0.16));
+            
+            
             //WindChill = 13.12 + 0.6215 * temp - 11.37 * Math.Pow(Wind, 0.16) + 0.3965 * temp * Math.Pow(Wind, 0.16);
 
-            WindChill = 13.12 + 0.6215 * temp - 11.37 * Math.Pow(Wind, 0.16) + 0.3965 * temp * Math.Pow(Wind, 0.16);
-            WindChill = Math.Round(WindChill, 2);
-            Console.WriteLine("Känns som " + WindChill + " grader celsius");
+            WindChill = 13.12 + 0.6215 * temp - 11.37 * Math.Pow(wind, 0.16) + 0.3965 * temp * Math.Pow(wind, 0.16); //Tack Isak
+
+            Console.WriteLine($"Känns som {WindChill:F2} grader celsius");
 
             if (WindChill > -25)
             {
